@@ -1,24 +1,24 @@
 # IPL-Data-Analysis
 This project is focuses on analyzing IPL data using Python.
 
-# TOOLS USED
+## TOOLS USED
 -python,
 -pandas,
 -matplotlib,
 -jupyter Notebook
 
-# DATAset
+## DATAset
 -matches.csv,
 -deliveries.csv
 
-# ANALYSIS PERFORMED
+## ANALYSIS PERFORMED
 -Matches won by the teams.
 -Top batsman.
 -Players with most sixes.
 -D/L methods uasage
 -Matches played in diiferent cities.
 
-# VISUALISATION
+## VISUALISATION
 Different types of graphs are used such as:
 -Bar charts
 -Pie charts
