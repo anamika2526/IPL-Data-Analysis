@@ -2,13 +2,13 @@
 This project is focuses on analyzing IPL data using Python.
 
 # TOOLS USED
--python
--pandas
--matplotlib
+-python,
+-pandas,
+-matplotlib,
 -jupyter Notebook
 
 # DATAset
--matches.csv
+-matches.csv,
 -deliveries.csv
 
 # ANALYSIS PERFORMED
